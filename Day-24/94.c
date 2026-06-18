@@ -1,2 +1,0 @@
-//To compress a string
-
